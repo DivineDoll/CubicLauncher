@@ -34,5 +34,5 @@ android {
 
 dependencies {
     implementation 'androidx.annotation:annotation-jvm:1.10.0'
-    api project(":mojoexec:jni_bindings")
+    api project(":cubicexec:jni_bindings")
 }
