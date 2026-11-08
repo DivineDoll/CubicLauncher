@@ -1,0 +1,12 @@
+/.gradle
+/build
+/*/build
+app_cubic/src/main/assets/components/jre
+/app_cubic/src/main/assets/components/jre-new/
+/app_cubic/src/main/assets/components/jre-21/
+local.properties
+.idea/
+app_cubic/.cxx/
+.vs/
+/curseforge_key.txt
+/app_cubic/libs/ltw-release.aar
